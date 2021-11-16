@@ -6,6 +6,10 @@
         "stm32f1xx_hal.h": "c",
         "stm32f1xx_hal_conf.h": "c",
         "stm32f1xx_hal_usart.h": "c",
-        "stm32f1xx_hal_uart.h": "c"
+        "stm32f1xx_hal_uart.h": "c",
+        "core_cm3.h": "c",
+        "cmsis_version.h": "c",
+        "usart.h": "c",
+        "cstdint": "c"
     }
 }
